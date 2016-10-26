@@ -14,3 +14,16 @@ a {
   text-align: center;
   margin: 0;
 }
+
+#navbar {
+    max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+#navbar ul{
+  list-style: none;
+}
+
+#navbar li{
+  display: inline;
+}
