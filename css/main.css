@@ -27,3 +27,23 @@ a {
 #navbar li{
   display: inline;
 }
+
+.project {
+  min-width: 300px;
+  width: 75%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -60%);
+}
+
+.centered-left {
+  /* bring your own prefixes */
+  transform: translate(45%, 0);
+}
