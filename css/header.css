@@ -1,0 +1,37 @@
+header {
+    top: 0;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 5%;
+}
+
+header h1 {
+  display: inline;
+}
+
+#logo {
+    text-decoration: none;
+  text-align: center;
+  margin: 0;
+}
+
+#navbar {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 5%;
+  display: inline;
+}
+#navbar ul{
+  list-style: none;
+  display: inline;
+  padding-right: 5%;
+  float: right;
+}
+
+#navbar li{
+  display: inline;
+}
+
+/*header h1 {
+  display: inline;
+}*/
