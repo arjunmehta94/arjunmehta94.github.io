@@ -31,13 +31,16 @@ a {
 
 .centered {
   /*position: fixed;*/
-  top: 50%;
-  left: 50%;
+  /*top: 50%;
+  left: 50%;*/
   /* bring your own prefixes */
-  transform: translate(10%, 0);
+  /*transform: translate(10%, 0);*/
+  margin: auto;
 }
 
 .centered-left {
+  width: 128px;
   /* bring your own prefixes */
-  transform: translate(35%, 0);
+  /*transform: translate(35%, 0);*/
+  margin: auto;
 }
