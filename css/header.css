@@ -3,10 +3,12 @@ header {
     padding-top: 0.5%;
     padding-bottom: 0.5%;
     padding-left: 5%;
+    background-color: black;
 }
 
 header h1 {
   display: inline;
+  color: white;
 }
 
 #logo {
@@ -30,6 +32,11 @@ header h1 {
 
 #navbar li{
   display: inline;
+  color: white;
+}
+
+#navbar li a{
+  color: white;
 }
 
 /*header h1 {
