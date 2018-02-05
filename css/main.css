@@ -57,7 +57,7 @@ a {
   text-align: center;
 }
 
-.about a:hover:after{
+#joey:hover:after{
   content: url(/img/joey.jpg); /* no need for qoutes */
   display: block;
   margin: auto;
