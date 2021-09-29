@@ -26,6 +26,10 @@ a {
   transform: translate(-50%, -50%);  
 }
 
+.text-size-30 {
+  font-size: 30px;
+}
+
 .project {
   min-width: 300px;
   width: 75%;
