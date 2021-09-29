@@ -30,6 +30,11 @@ a {
   font-size: 30px;
 }
 
+.text-size-20 {
+  font-size: 20px;
+  text-align: center;
+}
+
 .project {
   min-width: 300px;
   width: 75%;
