@@ -30,9 +30,9 @@ a {
   font-size: 30px;
 }
 
-.text-size-20 {
-  font-size: 20px;
+.text-size-20-center {
   text-align: center;
+  font-size: 20px;
 }
 
 .project {
